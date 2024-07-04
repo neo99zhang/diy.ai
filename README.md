@@ -1,7 +1,7 @@
 # DIY AI
 
 This repo contains my tutorial and implementation for ML,DL,LLM,NLP and ASR, ranging from ML basics to advanced genAI, from algorithm to system, and from MLOps to AI on the edge.
-This repo is primarily based on [Pytorch](https://pytorch.org), [Huggingface🤗](https://huggingface.co), and [Colab](https://colab.research.google.com). And I appreciate great material online like Stanford's [Machine Learning](https://cs229.stanford.edu/), Mu Li's [Dive into deep learning](https://d2l.ai/) and Hungyi Lee's [genAI](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php).
+This repo is primarily based on [github](https://github.com), [Pytorch](https://pytorch.org), [Huggingface🤗](https://huggingface.co), and [Colab](https://colab.research.google.com). And I appreciate great material online like Stanford's [Machine Learning](https://cs229.stanford.edu/), Mu Li's [Dive into deep learning](https://d2l.ai/) and Hungyi Lee's [genAI](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php).
 
 ## Math Prerequites
 
@@ -20,11 +20,11 @@ Salute to Prof. Lav Varshney for his awesome [genAI course](https://courses.grai
 - **GAN - Generative adversarial network**
 - **Autoregressive**
 - **Diffusion**
+    Huggingface🤗 [offical tutorial](https://github.com/huggingface/diffusion-models-class)
 - **Transformer**
 - **Prompt**
 - **Lora**
-
-    Checkout their [paper](https://arxiv.org/abs/2106.09685) and [source](https://github.com/microsoft/LoRA)
+    Check out their [paper](https://arxiv.org/abs/2106.09685) and [source](https://github.com/microsoft/LoRA)
 - **Detection**
 
 ## NLP - Natural Language Processing
