@@ -20,8 +20,12 @@ Salute to Prof. Lav Varshney for his awesome [genAI course](https://courses.grai
 - **GAN - Generative adversarial network**
 - **Autoregressive**
 - **Diffusion**
-    Huggingface🤗 [offical tutorial](https://github.com/huggingface/diffusion-models-class)
+    Huggingface🤗 [diffusion class](https://github.com/huggingface/diffusion-models-class)
+    Huggingface🤗 [diffusers](https://github.com/huggingface/diffusers)
 - **Transformer**
+    Huggingface🤗 [transformers](https://github.com/huggingface/transformers)
+- **PEFT - Parameter-Efficient Fine-Tuning**
+    Huggingface🤗 [peft](https://github.com/huggingface/peft)
 - **Prompt**
 - **Lora**
     Check out their [paper](https://arxiv.org/abs/2106.09685) and [source](https://github.com/microsoft/LoRA)
