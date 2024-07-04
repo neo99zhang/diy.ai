@@ -20,20 +20,39 @@ Salute to Prof. Lav Varshney for his awesome [genAI course](https://courses.grai
 - **GAN - Generative adversarial network**
 - **Autoregressive**
 - **Diffusion**
+
     Huggingface🤗 [diffusion class](https://github.com/huggingface/diffusion-models-class)
+
     Huggingface🤗 [diffusers](https://github.com/huggingface/diffusers)
+
 - **Transformer**
+
     Huggingface🤗 [transformers](https://github.com/huggingface/transformers)
+
 - **PEFT - Parameter-Efficient Fine-Tuning**
+
     Huggingface🤗 [peft](https://github.com/huggingface/peft)
+
 - **Prompt**
 - **Lora**
+
     Check out their [paper](https://arxiv.org/abs/2106.09685) and [source](https://github.com/microsoft/LoRA)
+
 - **Detection**
 
 ## NLP - Natural Language Processing
 
 - **GPT - Generative Pre-trained Transformer**
+    The best materials are definitely [Andrej Karpathy](https://github.com/karpathy) with his [build GPT from sratch](https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=7&ab_channel=AndrejKarpathy). And he does have several versions of minimal GPTs:
+
+    1. [minGPT](https://github.com/karpathy/minGPT) for education: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
+
+    2. [nanoGPT](https://github.com/karpathy/nanoGPT) with teeth: The simplest, fastest repository for training/finetuning medium-sized GPTs.
+
+    3. [LLM101n](https://github.com/karpathy/LLM101n) his latest tutorial thats still under construction.
+
+    I would personally start with minGPT and his youtube to get a sense of it, get hands dirty and use the latter two as reference.
+
 - **BERT - Bidirectional Encoder Representations from Transformers**
 
 ## ASR - Automatic Speech Processing
@@ -58,6 +77,10 @@ Salute to Prof. Lav Varshney for his awesome [genAI course](https://courses.grai
 - **Llama.cpp**
 
     Inference of Meta's LLaMA model (and others) in pure C/C++. See their [source](https://github.com/ggerganov/llama.cpp).
+
+- **llm.c**
+
+    LLM training in simple, raw C/CUDA. See their [source](https://github.com/karpathy/llm.c).
 
 ## ML Sys
 
