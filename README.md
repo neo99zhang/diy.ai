@@ -81,7 +81,12 @@ Salute to Prof. Lav Varshney for his awesome [genAI course](https://courses.grai
 
 ## ML Sys
 
-Shout out to Prof.Tianqi Han's [ML Sys](https://catalyst.cs.cmu.edu/15-884-mlsys-sp21/) on how to build and optimize ML systems.
+Shout out to Prof.Tianqi Han's [ML Sys](https://catalyst.cs.cmu.edu/15-884-mlsys-sp21/) on how to build and optimize ML systems, and Stanford's [CS129](https://gfxcourses.stanford.edu/cs149/fall23/) and UIUC's [ECE408](https://lumetta.web.engr.illinois.edu/408-S22/) on paralell computing.
+
+- **Intro to CUDA**
+
+    See my notes and code on [ECE408](https://github.com/neo99zhang/ece408), a great course for learning CUDA.
+
 
 - **vLLM**
 
