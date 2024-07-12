@@ -31,13 +31,10 @@ Salute to Prof. Lav Varshney for his awesome [genAI course](https://courses.grai
 
 - **PEFT - Parameter-Efficient Fine-Tuning**
 
-    Huggingface🤗 [peft](https://github.com/huggingface/peft)
+    1. Huggingface🤗 [peft](https://github.com/huggingface/peft)
+    2. Lora:Check out their [paper](https://arxiv.org/abs/2106.09685) and [source](https://github.com/microsoft/LoRA)
 
 - **Prompt**
-- **Lora**
-
-    Check out their [paper](https://arxiv.org/abs/2106.09685) and [source](https://github.com/microsoft/LoRA)
-
 - **Detection**
 
 ## NLP - Natural Language Processing
@@ -89,6 +86,8 @@ Shout out to Prof.Tianqi Han's [ML Sys](https://catalyst.cs.cmu.edu/15-884-mlsys
 - **vLLM**
 
 - **FlashAttention**
+
+- **DeepSpeed**
 
 - **ML Ops**
 
