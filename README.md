@@ -12,6 +12,11 @@ I found these great cheatsheets for beginner & refresher:
 
 ## ML Basics
 
+Follow the [coding practice by google](https://google.github.io/styleguide/pyguide.html).
+
+See implementation [details](/MLBasics/).
+
+
 ## GenAI - Generative AI
 
 Salute to Prof. Lav Varshney for his awesome [genAI course](https://courses.grainger.illinois.edu/ECE598LV/sp2022/).
@@ -86,7 +91,6 @@ Shout out to Prof.Tianqi Han's [ML Sys](https://catalyst.cs.cmu.edu/15-884-mlsys
 - **Intro to CUDA**
 
     See my notes and code on [ECE408](https://github.com/neo99zhang/ece408), a great course for learning CUDA.
-
 
 - **vLLM**
 
